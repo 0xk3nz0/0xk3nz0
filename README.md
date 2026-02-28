@@ -11,7 +11,13 @@ If you'd like to reach out, feel free to connect with me on [LinkedIn](https://m
 <hr>
 
 <p align="center">
-<img src="https://42-badge-proxy.d4wan5564x.workers.dev/badge?username=hmouhib&image_url=https://avatars.githubusercontent.com/u/115029856" />
+  <img src="https://42-badge-proxy.d4wan5564x.workers.dev/badge?username=hmouhib&image_url=https://avatars.githubusercontent.com/u/115029856" width="480" alt="Kenzo's Ecole-42 profile card 🧙‍♂️" />
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/a291bb38-bfac-4b14-8d14-b6644650b184/thumbnail" width="480" alt="Kenzo's Boot.dev profile card 🧙‍♂️" />
 </p>
 
 <hr>
